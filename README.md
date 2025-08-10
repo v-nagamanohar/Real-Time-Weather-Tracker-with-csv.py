@@ -84,13 +84,3 @@ Enter your city name: London
 Logged: 25.3 Clear in London on 2025-08-11
 ```
 
----
-
-## 🔧 Possible Improvements
-
-- Add forecast support (next 5 days)
-- Save logs in JSON or SQLite database
-- Display data in a GUI using Tkinter
-- Allow filtering by date or city
-
----
